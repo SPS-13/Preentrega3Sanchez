@@ -1,0 +1,15 @@
+{
+  "name": "preentrega3sanchez",
+  "version": "1.0.0",
+  "description": "Es una pagina sobre una empresa de transportes para poder ponerse en contacto con mas clientes, transportistas y/u otras empresas en el medio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pablo Antonio Sanchez Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
